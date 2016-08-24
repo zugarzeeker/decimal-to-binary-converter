@@ -60,7 +60,7 @@ Converting Float 0.875 to binary
 
   2. import function from this library
   ```js
-  import { converter } from 'converter'
+  import { converter } from 'decimal-to-binary-converter'
   ```
 
 
