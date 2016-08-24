@@ -1,6 +1,6 @@
 {
-  "name": "timetable-calculator",
-  "version": "1.0.1",
+  "name": "decimal-to-binary-converter",
+  "version": "1.0.0",
   "description": "This is an algorithm for converting decimal to binary.",
   "main": "lib/main.js",
   "scripts": {
@@ -24,9 +24,9 @@
   "author": "Supanut Apikulvanich <supanut.overload@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zugarzeeker/converting-decimal-to-binary/issues"
+    "url": "https://github.com/zugarzeeker/decimal-to-binary-converter/issues"
   },
-  "homepage": "https://github.com/zugarzeeker/converting-decimal-to-binary#readme",
+  "homepage": "https://github.com/zugarzeeker/decimal-to-binary-converter#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "essay": "^3.0.1"
