@@ -1,6 +1,6 @@
 {
   "name": "decimal-to-binary-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This library is an algorithm for converting decimal to binary.",
   "main": "lib/main.js",
   "scripts": {
